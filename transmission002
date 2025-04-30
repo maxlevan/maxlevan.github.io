@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Half Awake</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: 'Georgia', serif;
+      padding: 3em;
+      line-height: 1.7;
+      font-size: 1.25em;
+      max-width: 700px;
+      margin: auto;
+    }
+    .line {
+      margin-bottom: 2em;
+      opacity: 0.88;
+    }
+  </style>
+</head>
+<body>
+  <div class="line">i’m not sad, just tired a lot</div>
+  <div class="line">kinda miss you, kinda not</div>
+  <div class="line">tried deleting every sign,<br>but the ghost still hits on time</div>
+  <div class="line">you said nothing, and i felt that</div>
+  <div class="line">left your mess and called it growth</div>
+  <div class="line">fake hope and empty rooms</div>
+  <div class="line">i know i’ve got fake closure</div>
+  <div class="line">this isn’t about closure.<br>it’s about everything that lingers</div>
+</body>
+</html>
